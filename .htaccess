@@ -1,0 +1,13 @@
+AddDefaultCharset UTF-8
+
+RewriteEngine on
+RewriteBase /
+
+RewriteCond %{SCRIPT_FILENAME} !-f
+RewriteCond %{SCRIPT_FILENAME} !-d
+RewriteRule ^([A-Za-z0-9-]+)/?$ redirect.php?link_id=$1 [NC,L]
+
+RewriteCond %{REQUEST_FILENAME}\.php -f
+RewriteRule ^(.*)/?$ $1.php
+RewriteRule ^(.*)/([a-z_]+)/?$ $1.php
+

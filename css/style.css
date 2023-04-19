@@ -1,0 +1,70 @@
+@import url('https://fonts.googleapis.com/css?family=Oswald:400|Poiret+One&display=swap');
+
+body {
+	background-color: #f2f2f2;
+  color: #333;
+}
+
+#form_new_redirect, #form_new_project, #form_name_project, #form_new_user { display: none; }
+
+.sidebar_menu a {
+    text-decoration: none;
+    color: #fff;
+    padding: 12px 0;
+    display: block;
+    border-bottom: 1px solid #dddddd69;
+}
+
+.sidebar_menu a:hover {
+  color: #e2e1e1;
+}
+
+a {
+    text-decoration: none;
+    background-color: transparent;
+}
+
+.bg-default {
+  background: #40495f;
+}
+
+.poiret-one {
+  font-family: 'Poiret One', cursive;
+}
+
+.oswald {
+  font-family: 'Oswald', sans-serif;
+}
+
+.text-yellow {
+    color: yellow;
+}
+
+.welcome {
+  font-size: 40px;
+}
+
+.deleteSuccess {
+  display: none;
+}
+
+#notice {
+  width: 300px;
+  background: linear-gradient(135deg, #2d2b2b 0%, #352f30 100%);
+  padding: 20px;
+  color: #fff;
+  text-align: center;
+  box-shadow: 5px 5px 5px rgba(0, 0, 0, 0.1);
+  -webkit-box-shadow: 5px 5px rgba(0, 0, 0, 0.1);
+  -moz-box-shadow: 5px 5px rgba(0, 0, 0, 0.1);
+  position: fixed;
+  left: 2em;
+  bottom: 2em;
+  z-index: 99;
+  margin-left: 0;
+}
+
+
+.description {
+  font-family: 'Poiret One', cursive;
+}
