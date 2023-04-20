@@ -4,7 +4,7 @@
 
 Версия: 1.4<br>
 Язык: русский<br>
-[Описание + видео](https://inwebpress.com/redirekt-master-svoj-sokrashhatel-ssylok/)
+[Описание, видео и FAQ](https://inwebpress.com/redirekt-master-svoj-sokrashhatel-ssylok/)
 
 ## Требования
 
@@ -54,6 +54,15 @@ Email: admin@mysite.com
 4. Загрузите на сервер свои файлы dbAccess.php и config.php.
 
 5. Проверьте работу скрипта.
+
+## Roadmap
+
+[*]
+[]
+
+## Changelog
+
+1.4 - основная версия, русский язык. Поддержка PHP 7.3.
 
 ## Donate
 
