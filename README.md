@@ -2,8 +2,6 @@
 
 Редирект-Мастер – свой сокращатель ссылок для партнерского маркетинга
 
-[![GitHub release (latest by date)](https://img.shields.io/github/v/release/pekarskyi/RedirectMaster?style=for-the-badge)](https://GitHub.com/pekarskyi/RedirectMaster/releases/)
-
 Версия: 1.4<br>
 Язык: русский
 
@@ -37,5 +35,15 @@ Email: admin@redirect-master.ru<br>
 
 9. В разделе «Настройки» указываем url-адрес на который пользователь будет перенаправлен в случае, если он введет адрес домена.<br>
 Вы можете указать любую свою партнерскую ссылку. Есть люди, которые интересуются, а что там на главной. Вот и отправляйте их на свои реферальные ссылки. Нечего им на главную переходить. Или создайте файл HTML и в нем разместите рекламные баннеры. Ссылку на это файл укажите в качестве редиректа.
+
+## Как обновить скрипт?
+
+## Donate
+
+Вы можете поддержать меня как разработчика и пожертвовать на развитие проекта.
+
+- [Донателло в UAH](https://donatello.to/inwebpress)
+
+- [Банка от Монобанка в UAH](https://send.monobank.ua/jar/A6cy9eBtcB)
 
 [![Stand With Ukraine](https://raw.githubusercontent.com/vshymanskyy/StandWithUkraine/main/badges/StandWithUkraine.svg)](https://sitex.me/standwithukraine)
