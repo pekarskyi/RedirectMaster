@@ -4,6 +4,7 @@
 
 Версия: 1.4<br>
 Язык: русский
+[Описание + видео](https://inwebpress.com/redirekt-master-svoj-sokrashhatel-ssylok/)
 
 ## Требования
 
@@ -27,8 +28,8 @@
 6. Проверьте файл /inc/config.php<br>
 В строках 28 и 31 необходимо прописать свой домен и сайт.
 
-7. Заходим в админку сайта по адресу: https://ваш.сайт/admin/<br>
-Email: admin@redirect-master.ru<br>
+7. Заходим в админку сайта по адресу: https://mysite.com/admin/<br>
+Email: admin@mysite.com<br>
 Пароль: Qwerty123456<br>
 
 8. В админке, в разделе «Пользователи» для учетной записи админа меняем почту и пароль.
@@ -56,7 +57,6 @@ Email: admin@redirect-master.ru<br>
 Вы можете поддержать меня как разработчика и пожертвовать на развитие проекта.
 
 - [Донателло в UAH](https://donatello.to/inwebpress)
-
 - [Банка от Монобанка в UAH](https://send.monobank.ua/jar/A6cy9eBtcB)
 
 [![Stand With Ukraine](https://raw.githubusercontent.com/vshymanskyy/StandWithUkraine/main/badges/StandWithUkraine.svg)](https://sitex.me/standwithukraine)

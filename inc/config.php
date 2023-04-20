@@ -24,10 +24,10 @@ $domain_redirect = $settings['domain_redirect'];
 $head_footer_color = $settings['head_footer_color'];
 $sidebar_color = $settings['sidebar_color'];
 
-// Домен в виде smartller.com
-$domain = "redirect-master.ru";
+// Домен в виде mysite.com
+$domain = "mysite.com";
 
-// Адрес сайта виде https://smartller.com
-$domain_url = "https://redirect-master.ru";
+// Адрес сайта виде https://mysite.com
+$domain_url = "https://mysite.com";
 
 ?>
