@@ -7,9 +7,9 @@
 - :scroll: [Описание, видео и FAQ](https://inwebpress.com/redirekt-master-svoj-sokrashhatel-ssylok/)
 - :interrobang: [Задать вопрос / сообщить о проблеме](https://github.com/pekarskyi/RedirectMaster/issues)
 
-## На других языках
+## :earth_africa: На других языках
 
-- Украинский [![GitHub](https://badgen.net/badge/icon/github?icon=github&label)](https://github.com/pekarskyi/RedirectMaster-UA)
+- [Украинский](https://github.com/pekarskyi/RedirectMaster-UA)
 
 ## :loudspeaker: Requirements
 
