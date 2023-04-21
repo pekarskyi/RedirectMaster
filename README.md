@@ -4,7 +4,8 @@
 
 - :floppy_disk: Версия: 1.4 [Скачать](https://github.com/pekarskyi/RedirectMaster/releases)
 - :earth_africa: Язык: русский
-- :scroll: [Описание, видео и FAQ](https://inwebpress.com/redirekt-master-svoj-sokrashhatel-ssylok/)
+- :scroll: [Описание, видео](https://inwebpress.com/redirekt-master-svoj-sokrashhatel-ssylok/)
+- :question: [FAQ](https://github.com/pekarskyi/RedirectMaster/wiki)
 - :interrobang: [Задать вопрос / сообщить о проблеме](https://github.com/pekarskyi/RedirectMaster/issues)
 
 ## :earth_africa: Languages
