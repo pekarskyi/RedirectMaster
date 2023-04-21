@@ -2,7 +2,7 @@
 
 Редирект-Мастер – свой сокращатель ссылок для партнерского маркетинга
 
-Версия: 1.4<br>
+Версия: 1.4 [Скачать](https://github.com/pekarskyi/RedirectMaster/releases)<br>
 Язык: русский<br>
 [Описание, видео и FAQ](https://inwebpress.com/redirekt-master-svoj-sokrashhatel-ssylok/)
 
