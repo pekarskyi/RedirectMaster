@@ -11,7 +11,7 @@
 
 ## :earth_africa: Languages
 
-- [Украинский](https://github.com/pekarskyi/RedirectMaster-UA)
+- [Украинский](https://github.com/pekarskyi/RedirectMaster-UA) :exclamation: В разработке
 
 ## :loudspeaker: Requirements
 
