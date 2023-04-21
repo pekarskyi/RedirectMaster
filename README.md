@@ -7,7 +7,7 @@
 - :scroll: [Описание, видео и FAQ](https://inwebpress.com/redirekt-master-svoj-sokrashhatel-ssylok/)
 - :interrobang: [Задать вопрос / сообщить о проблеме](https://github.com/pekarskyi/RedirectMaster/issues)
 
-## :earth_africa: На других языках
+## :earth_africa: Languages
 
 - [Украинский](https://github.com/pekarskyi/RedirectMaster-UA)
 
