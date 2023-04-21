@@ -6,7 +6,7 @@
 Язык: русский<br>
 [Описание, видео и FAQ](https://inwebpress.com/redirekt-master-svoj-sokrashhatel-ssylok/)
 
-[![GitHub release](https://img.shields.io/github/release/pekarskyi/RedirectMaster.js.svg)](https://GitHub.com/pekarskyi/RedirectMaster.js/releases/)
+[![GitHub release](https://img.shields.io/github/release/pekarskyi/RedirectMaster.js.svg)](https://GitHub.com/pekarskyi/RedirectMaster/releases/)
 
 
 ## Requirements
