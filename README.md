@@ -2,8 +2,8 @@
 
 Редирект-Мастер – свой сокращатель ссылок для партнерского маркетинга
 
-- :floppy_disk: Версия: 1.4 [Скачать](https://github.com/pekarskyi/RedirectMaster/releases)<br>
-- :earth_africa: Язык: русский<br>
+- :floppy_disk: Версия: 1.4 [Скачать](https://github.com/pekarskyi/RedirectMaster/releases)
+- :earth_africa: Язык: русский
 - :scroll: [Описание, видео и FAQ](https://inwebpress.com/redirekt-master-svoj-sokrashhatel-ssylok/)
 - :interrobang: [Задать вопрос / сообщить о проблеме](https://github.com/pekarskyi/RedirectMaster/issues)
 
