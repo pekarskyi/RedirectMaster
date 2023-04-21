@@ -2,13 +2,13 @@
 
 Редирект-Мастер – свой сокращатель ссылок для партнерского маркетинга
 
-- Версия: 1.4 [Скачать](https://github.com/pekarskyi/RedirectMaster/releases)<br>
-- Язык: русский<br>
-- [Описание, видео и FAQ](https://inwebpress.com/redirekt-master-svoj-sokrashhatel-ssylok/)
+- :floppy_disk: Версия: 1.4 [Скачать](https://github.com/pekarskyi/RedirectMaster/releases)<br>
+- :earth_africa: Язык: русский<br>
+- :scroll: [Описание, видео и FAQ](https://inwebpress.com/redirekt-master-svoj-sokrashhatel-ssylok/)
 - :question: [Задать вопрос / сообщить о проблеме](https://github.com/pekarskyi/RedirectMaster/issues)
 
 
-## Requirements
+## :loudspeaker: Requirements
 
 - PHP: 7.3 (работает на 7.4, но возможны ошибки)
 - Secure connection (HTTPS) - подключаем SSL, чтобы сайт работал на защищенном протоколе.
@@ -57,7 +57,7 @@ Email: admin@mysite.com
 
 5. Проверьте работу скрипта.
 
-## Roadmap
+## :rocket: Roadmap
 
 Последовательность появления новых изменений может быть иной, чем указано ниже.
 
