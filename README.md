@@ -7,6 +7,9 @@
 - :scroll: [Описание, видео и FAQ](https://inwebpress.com/redirekt-master-svoj-sokrashhatel-ssylok/)
 - :interrobang: [Задать вопрос / сообщить о проблеме](https://github.com/pekarskyi/RedirectMaster/issues)
 
+## На других языках
+
+- Украинский [![GitHub](https://badgen.net/badge/icon/github?icon=github&label)](https://github.com/pekarskyi/RedirectMaster-UA)
 
 ## :loudspeaker: Requirements
 
@@ -23,7 +26,7 @@
 
 3. В корень нашего сайта загружаем папки и файлы скрипта.
 
-4. На хостинге создаем Базу данных и импортируем дамп от автора скрипта (создаем таблицы).
+4. На хостинге создаем Базу данных и импортируем дамп (файл db.sql).
 
 5. Открываем на сайте файл: /admin/MySQLlib/dbAccess.php и прописываем в нем данные подключения к Базе данных.
 
