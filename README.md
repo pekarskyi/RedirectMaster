@@ -44,8 +44,8 @@
 
 ## :earth_africa: Languages
 
-- [Украинский](https://github.com/pekarskyi/RedirectMaster-UA)
-- [Русский](https://github.com/pekarskyi/RedirectMaster)
+- [Украинский](https://github.com/pekarskyi/RedirectMaster-UA) (как отдельная версия)
+- [Русский](https://github.com/pekarskyi/RedirectMaster) (как отдельная версия)
 
 ## :loudspeaker: Requirements
 
