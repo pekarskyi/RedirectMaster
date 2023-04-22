@@ -1,4 +1,5 @@
 <?php
+//error_reporting (E_ALL ^ E_NOTICE);
 define('ROOT', dirname(__DIR__));
 include 'configProject.php';
 include 'views/header' . $phpExt;
@@ -7,8 +8,10 @@ include 'sidebar' . $phpExt;
 $link_id = $_GET['link_id'];
 
 // ПОСТРАНИЧНАЯ НАВИГАЦИЯ
-$num = 30; 
-$page = $_GET['page'];
+$num = 30;
+$page = isset($_POST['page']) ? $_POST['page'] : '';
+//$page = $_GET['page'];
+
 // Определяем общее количество постов в базе данных 
 $postnumber = $connect -> query("SELECT COUNT(1) FROM visits WHERE link_id = '?i'", $link_id);
 $postnumber_result = $postnumber -> fetch_row();

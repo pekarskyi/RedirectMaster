@@ -63,6 +63,13 @@
 <div class="mt-4">
 <?php 
 
+$pervpage= isset($pervpage) ? $pervpage: '';
+$page2left= isset($page2left) ? $page2left: '';
+$page1left= isset($page1left) ? $page1left: '';
+$page1right= isset($page1right) ? $page1right: '';
+$page2right= isset($page2right) ? $page2right: '';
+$nextpage= isset($nextpage) ? $nextpage: '';
+
   // Проверяем нужны ли стрелки назад 
   if ($page != 1) $pervpage = '<li class="page-item"><a class="page-link" href="?link_id='.$link_id.'&page=1"><<</a></li> 
                                  <li class="page-item"><a class="page-link" href="?link_id='.$link_id.'&page='. ($page - 1) .'">Назад</a></li>'; 

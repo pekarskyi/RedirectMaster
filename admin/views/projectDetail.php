@@ -5,8 +5,8 @@
         <button class="btn btn-warning btn-sm" id="new_redirect">Добавить редирект</button>
     </div>
     <div class="col-auto">
-        <button id="del_proj" title="Удалить проект" class="btn btn-light btn-sm">
-            <i class="far fa-trash-alt"></i> Удалить проект
+        <button id="del_proj" title="Удалить категорию" class="btn btn-light btn-sm">
+            <i class="far fa-trash-alt"></i> Удалить категорию
             <input type="hidden" id="id_delete_project" value="<?php echo $project_id; ?>">
         </button>
     </div>
@@ -17,10 +17,10 @@
     <input type="hidden" name="project_id" value="<?php echo $link['project_id']; ?>">
     <div class="form-row mt-3">
         <div class="col">
-            <input type="text" name="project_name" id="project_name" class="form-control" placeholder="Имя проекта" value="<?php echo $project['project_name']; ?>">
+            <input type="text" name="project_name" id="project_name" class="form-control" placeholder="Имя категории" value="<?php echo $project['project_name']; ?>">
         </div>
         <div class="col-auto">
-            <input type="submit" name="update_name_project" class="btn btn-success btn-block" value="Обновить имя проекта">
+            <input type="submit" name="update_name_project" class="btn btn-success btn-block" value="Обновить категорию">
         </div>
     </div>
 </form>
@@ -48,7 +48,7 @@
             <input type="text" name="comments" class="form-control" placeholder="Название редиректа">
         </div>
         <div class="col-4">
-            <input type="text" name="url_name" class="form-control" placeholder="Свой url редиректа">
+            <input type="text" name="url_name" class="form-control" placeholder="Свой SLUG редиректа">
         </div>
         <div class="col-4">
             <input type="submit" name="send" class="btn btn-primary btn-block" value="Добавить редирект">
@@ -59,13 +59,13 @@
 <div class="row text-center text-white mb-4">
   <div class="col-sm">
     <div class="bg-default rounded px-3 py-4">
-      <h6>Редиректов в проекте</h6>
+      <h6>Редиректов в категории</h6>
       <div class="text-white"><?php echo $num_links[0]; ?></div>
     </div>
   </div>
   <div class="col-sm">
     <div class="bg-default text-center text-white rounded px-3 py-4">
-      <h6>Всего переходов в проекте</h6>
+      <h6>Всего переходов в категории</h6>
       <div class="text-white"><?php echo $num_visits[0]; ?></div>
     </div>
   </div>

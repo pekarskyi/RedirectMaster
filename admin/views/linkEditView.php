@@ -17,9 +17,9 @@
       <input type="text" name="link_url" class="form-control" required placeholder="Url-адрес" value="<?php echo $link['link_url']; ?>">
     </div>
     <div class="col">
-      Проект
+      Категория
     <select name="project_id" class="form-control">
-        <option <?php if($prct['project_id'] === '0'){echo 'selected';} ?> value="0">Без проекта</option>
+        <option <?php if($prct['project_id'] === '0'){echo 'selected';} ?> value="0">Без категории</option>
 		<?php foreach($project_info as $prct) : ?>
 
 			<option <?php if($prct['project_id'] === $link['project_id']){echo 'selected';} ?> value="<?php echo $prct['project_id']; ?>"><?php echo $prct['project_name']; ?></option>
@@ -36,7 +36,7 @@
 </form>
 
 
-<button class="btn btn-warning btn-sm" id="reset_link">Сбросить статистику по редиректу</button>
+<button class="btn btn-warning btn-sm" id="reset_link">Сбросить статистику</button>
 
 
 <?php include 'footer' . $phpExt; ?>

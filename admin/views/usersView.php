@@ -9,15 +9,15 @@
 <form action="" method="POST" class="mb-4" id="form_new_user">
     <div class="form-row">
         <div class="col">
-            <input type="text" name="user_email" class="form-control" required placeholder="Email">
+            <input type="text" name="user_email" class="form-control" required placeholder="Email *">
         </div>
         <div class="col">
-            <input type="text" name="user_login" class="form-control" required placeholder="Логин">
+            <input type="text" name="user_login" class="form-control" required placeholder="Логин *">
         </div>
     </div>
     <div class="form-row mt-3">
         <div class="col">
-            <input type="text" name="first_name" class="form-control" required placeholder="Имя">
+            <input type="text" name="first_name" class="form-control" required placeholder="Имя *">
         </div>
         <div class="col">
             <input type="text" name="last_name" class="form-control" required placeholder="Фамилия">
@@ -25,7 +25,7 @@
     </div>
     <div class="form-row mt-3">
         <div class="col">
-            <input type="text" name="user_password" class="form-control" required placeholder="Пароль">
+            <input type="text" name="user_password" class="form-control" required placeholder="Пароль *">
         </div>
         <div class="col">
             <input type="submit" name="user_create" class="btn btn-primary btn-block" value="Создать">

@@ -11,7 +11,7 @@ if (isset($_POST['email']) AND isset($_POST['password'])){
     $result = $connect -> query("SELECT * FROM users WHERE user_email='?s' AND user_password='?s'", $user_email, md5($user_password));
     $count = $result -> fetch_assoc();
 
-    if (count($count) > 0) {
+    if (count((array) $count) > 0) {
         $_SESSION['authorization'] = $count['user_id'];
     }else{
         echo '<div id="notice">Неверный логин или пароль</div>';

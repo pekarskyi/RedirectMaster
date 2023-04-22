@@ -53,7 +53,7 @@ CREATE TABLE
         `link_id` int(11) NOT NULL,
         `url_name` varchar(255) NOT NULL,
         `link_url` varchar(255) NOT NULL,
-        `link_visit` int(11) NOT NULL,
+        `link_visit` int(11) NOT NULL DEFAULT '0',
         `project_id` int(11) NOT NULL,
         `comments` varchar(255) NOT NULL
     ) ENGINE = InnoDB DEFAULT CHARSET = utf8;
@@ -70,7 +70,7 @@ CREATE TABLE
     IF NOT EXISTS `project` (
         `project_id` int(11) NOT NULL,
         `project_name` varchar(255) NOT NULL,
-        `link_number` int(11) NOT NULL
+        `link_number` int(11) NULL
     ) ENGINE = InnoDB AUTO_INCREMENT = 2 DEFAULT CHARSET = utf8;
 
 --
@@ -118,7 +118,7 @@ INSERT INTO
     )
 VALUES (
         1,
-        'https://redirect-master.ru/',
+        'https://mysite.com/',
         '#40495f',
         '#40495f'
     );

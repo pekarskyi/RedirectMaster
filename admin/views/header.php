@@ -12,7 +12,7 @@ include("../inc/config.php");
 	<meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <link rel="shortcut icon" href="<?php echo $domain_url; ?>/images/link.png" type="image/png">
-    <title>Редирект-мастер – Панель управления</title>
+    <title>Редирект-Мастер – Панель управления</title>
     <link rel="stylesheet" href="<?php echo $domain_url; ?>/css/bootstrap.min.css" />
     <link rel="stylesheet" href="<?php echo $domain_url; ?>/css/style.css" />
     <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.7.1/css/all.css" crossorigin="anonymous">
@@ -62,5 +62,5 @@ include("../inc/config.php");
 </div>
 </div>
 
-<div class="container my-5 bg-white" style="min-height: 100vh;">
+<div class="container my-5 bg-white">
 

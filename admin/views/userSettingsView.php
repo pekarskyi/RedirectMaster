@@ -4,21 +4,21 @@
   <input type="hidden" name="user_id" value="<?php echo $user['user_id']; ?>">
   <div class="form-row">
     <div class="col">
-      Логин
+      Логин *
       <input type="text" name="user_login" class="form-control" required value="<?php echo $user['user_login']; ?>">
     </div>
     <div class="col">
-      Имя
+      Имя *
       <input type="text" name="first_name" class="form-control" required value="<?php echo $user['first_name']; ?>">
     </div>
     <div class="col">
       Фамилия
-      <input type="text" name="last_name" class="form-control" required value="<?php echo $user['last_name']; ?>">
+      <input type="text" name="last_name" class="form-control" value="<?php echo $user['last_name']; ?>">
     </div>
   </div>
   <div class="form-row my-3">
   	<div class="col">
-      Email
+      Email *
   	  <input type="text" name="user_email" class="form-control" required value="<?php echo $user['user_email']; ?>">
   	</div>
     <div class="col">

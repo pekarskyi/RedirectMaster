@@ -29,7 +29,7 @@
             <input type="text" name="comments" class="form-control" placeholder="Название редиректа">
           </div>
           <div class="col-4">
-            <input type="text" name="url_name" class="form-control" placeholder="Свой url редиректа">
+            <input type="text" name="url_name" class="form-control" placeholder="Свой SLUG для редиректа">
           </div>
       <div class="col-4">
         <input type="submit" name="send" class="btn btn-primary btn-block" value="Добавить редирект" <?php if ($num_projects[0] === '0') {
@@ -42,10 +42,10 @@
 <form action="" method="POST" class="mb-4" id="form_new_project">
   <div class="form-row">
     <div class="col">
-      <input type="text" name="project_name" class="form-control" required placeholder="Имя проекта">
+      <input type="text" name="project_name" class="form-control" required placeholder="Название категории">
     </div>
     <div class="col-auto">
-      <input type="submit" name="project_send" class="btn btn-primary" value="Добавить проект">
+      <input type="submit" name="project_send" class="btn btn-primary" value="Добавить категорию">
     </div>
   </div>
 </form>
@@ -54,7 +54,7 @@
 <div class="row text-center text-white mb-4">
   <div class="col-sm-4">
     <div class="bg-default text-center text-white rounded px-3 py-4">
-      <h6>Проектов</h6>
+      <h6>Категорий</h6>
       <div class="text-white"><?php echo $num_projects[0]; ?></div>
     </div>
   </div>

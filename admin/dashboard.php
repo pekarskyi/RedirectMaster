@@ -9,7 +9,7 @@ if (isset($_POST['send'])) {
     #ищем дубль
     $find_double = $connect -> query("SELECT * FROM `links` WHERE `url_name` = '?s'", $_POST['url_name']);
     $info_d = $find_double->fetch_assoc();
-    if(count($info_d) > 0 AND $_POST['url_name'] != ''){
+    if(count((array) $info_d) > 0 AND $_POST['url_name'] != ''){
         echo '<div id="notice">Редирект с таким URL уже существует</div>';
     }
     else{
