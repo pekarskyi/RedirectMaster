@@ -10,6 +10,7 @@
 - :scroll: [Описание, видео](https://inwebpress.com/redirekt-master-svoj-sokrashhatel-ssylok/)
 - :question: [FAQ](https://github.com/pekarskyi/RedirectMaster/wiki)
 - :interrobang: [Задать вопрос / сообщить о проблеме](https://github.com/pekarskyi/RedirectMaster/issues)
+- :man_technologist: [О себе](https://github.com/pekarskyi)
 
 ## :thumbsup: Кому подойдет Редирект-Мастер?
 
