@@ -31,6 +31,17 @@
 5. Категории - для каждой группы ссылок вы можете создать отдельную категорию.
 6. Пользователи - вы можете предоставить доступ к управлению другому пользователю. Это удобно, если у вас есть помощник.
 
+## :framed_picture: Screenshots
+
+- [Главная](https://1drv.ms/i/s!AqqMd7ixtOxl8TLLQtbj4Fa6mSUJ?e=FnZaEW)
+- [Создание ссылки](https://1drv.ms/i/s!AqqMd7ixtOxl8TRGx23KBFWIh7re?e=8tMKYX)
+- [Статистика переходов по ссылке](https://1drv.ms/i/s!AqqMd7ixtOxl8Tg71SIVwOiX_Rut?e=FZoi0P)
+- [Пользователи](https://1drv.ms/i/s!AqqMd7ixtOxl8TbGjug-z6Xh3joa?e=piWd6q)
+- [Настройки](https://1drv.ms/i/s!AqqMd7ixtOxl8TVFJGdWQ2UpoODK?e=pl7qNO)
+- [О системе](https://1drv.ms/i/s!AqqMd7ixtOxl8TdXK2JSlnm8bdwe?e=fVQx7N)
+- [Авторизация](https://1drv.ms/i/s!AqqMd7ixtOxl8TFLLtKE0DIc1Fjt?e=NjkXGg)
+- [Восстановление пароля](https://1drv.ms/i/s!AqqMd7ixtOxl8TPX787N8CM729Fk?e=534Sa1)
+
 ## :earth_africa: Languages
 
 - [Украинский](https://github.com/pekarskyi/RedirectMaster-UA)
